@@ -1,2 +1,3 @@
 git init     :to initialize git
 Git status   :list all untracked files
+git add -A ; used to add 
